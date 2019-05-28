@@ -24,8 +24,7 @@ class Toolbar extends PureComponent {
   static propTypes = {
     isReadonly: PropTypes.bool.isRequired,
     open: PropTypes.func.isRequired,
-    isDataLake: PropTypes.bool.isRequired,
-    place: PropTypes.string.isRequired
+    isDataLake: PropTypes.bool.isRequired
   }
 
   /**
