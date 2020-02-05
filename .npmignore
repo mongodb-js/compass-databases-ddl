@@ -13,3 +13,4 @@ src/
 test/
 .nyc_output/
 coverage/
+lib/index.html
