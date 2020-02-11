@@ -1,5 +1,4 @@
-import zipObject from 'lodash.zipobject';
-import sortByOrder from 'lodash.sortbyorder';
+import { zipObject, sortByOrder } from 'lodash';
 import { INITIAL_STATE as COLUMNS } from 'modules/columns';
 
 /**
